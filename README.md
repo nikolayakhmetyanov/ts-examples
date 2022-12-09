@@ -11,7 +11,7 @@
 
 ## Полезное
 
-[Хорошая статья по tsconfig](https://habr.com/ru/post/542234/)
-[Strict в tsconfig](https://www.typescriptlang.org/tsconfig#strict)
-[Документация по флагам запуска tsc](https://www.typescriptlang.org/docs/handbook/compiler-options.html#compiler-options)
-[Статья "Как устроена система типов в TypeScript"](https://ru.hexlet.io/blog/posts/sistema-tipov-v-typescript?roistat_visit=5573382)
+* [Хорошая статья по tsconfig](https://habr.com/ru/post/542234/)
+* [Strict в tsconfig](https://www.typescriptlang.org/tsconfig#strict)
+* [Документация по флагам запуска tsc](https://www.typescriptlang.org/docs/handbook/compiler-options.html#compiler-options)
+* [Статья "Как устроена система типов в TypeScript"](https://ru.hexlet.io/blog/posts/sistema-tipov-v-typescript?roistat_visit=5573382)
